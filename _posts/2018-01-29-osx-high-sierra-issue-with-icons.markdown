@@ -15,7 +15,7 @@ It happens in the Application folder, the Dock, command+tab and even Launchpad
 
 ![Screenshot OSX icon issue Dock]({{ "/assets/2018-01-29-osx-high-sierra-issue-with-icons/ScreenShot_OSX_IconIssue_Dock.png" | absolute_url }})
 
-![Screenshot OSX icon issue Launchpad]({{ "/assets/2018-01-29-osx-high-sierra-issue-with-icons/ScreenShot_OSX_IconIssue_Launchpad.jpg" | absolute_url }})
+![Screenshot OSX icon issue Launchpad]({{ "/assets/2018-01-29-osx-high-sierra-issue-with-icons/ScreenShot_OSX_IconIssue_Launchpad.png" | absolute_url }})
 
 i am looking for a solution. i googled and found some helpful links.
 
